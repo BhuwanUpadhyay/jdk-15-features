@@ -1,4 +1,4 @@
-# Jdk 15 Features
+# Highlight of Jdk 15 Features
 
 ![Jdk 15 Features](featured.png)
 
