@@ -2,10 +2,8 @@
 
 ![Highlight of Jdk 15 Features](Highlight%20of%20JDK%2015%20Features.png)
 
-Some exciting new features in Java 15 are sealed types, local types.
+Highlighting new features in Java 15 are sealed types, local types.
 
-On this article, I will go through how to implement new features in your code. 
-    
 ### Sealed Types
 
 Example of sealed classes:
