@@ -6,6 +6,13 @@ Highlighting new features in Java 15 are sealed types, local types.
 
 ### Sealed Types
 
+> Sealed classes and interfaces restrict which other classes or interfaces may extend or implement them.
+>  
+>  **Goals**
+>  - Allow the author of a class or interface to control which code is responsible for implementing it.
+>  - Provide a more declarative way than access modifiers to restrict the use of a superclass.
+>
+
 Example of sealed classes:
 
 ```java
@@ -102,6 +109,8 @@ final class Square extends Rectangle {
 ```
 
 ### Local Types
+
+Java 15 now allows us to create an enums, interfaces and records inside a local method.
 
 Example of local record:
 
